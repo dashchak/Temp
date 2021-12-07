@@ -1,0 +1,4 @@
+target 'Jose_example' do
+    platform :ios, '14.0'
+    pod 'ECDHESSwift'
+end
